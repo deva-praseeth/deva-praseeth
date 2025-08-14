@@ -1,8 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Porsche_logo.svg/2560px-Porsche_logo.svg.png" alt="Porsche Inspired" width="120">
-</p>
-<h1 align="center">Hi, I’m Deva Praseeth 👋</h1>
+<h1 align="center">Hi, I’m Devapraseeth 👋</h1>
 <p align="center">
   <em>“Driven by Dreams” — Engineering ideas into reality, one project at a time.</em>
 </p>
@@ -67,7 +63,7 @@ Implemented **automatic error detection** in MicroAutobox, integrated CAN messag
 <p align="center">
   <a href="mailto:devapraseeth.k@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/deva-praseeth-2a14571b1"><img src="https://img.shields.io/badge/LinkedIn-Deva%20Praseeth-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/deva-praseeth"><img src="https://img.shields.io/badge/GitHub-deva--praseeth-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/deva-praseeth"><img src="https://img.shields.io/badge/GitHub-deva--praseeth-green?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
