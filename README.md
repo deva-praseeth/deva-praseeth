@@ -22,26 +22,38 @@ I thrive at the intersection of **mechanics, electronics, and code** — buildin
   <img src="https://img.shields.io/badge/MATLAB-ffdd00?style=for-the-badge&logo=mathworks&logoColor=black" />
   <img src="https://img.shields.io/badge/Simulink-orange?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/CANoe-008B8B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/dSPACE-0055A4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ## 🏆 Featured Projects
+
+### 🔹 Autoware Integration – F1TENTH Platform  
+Deployment of **Autoware Autonomous Driving Stack** on **NVIDIA Jetson** using **ROS2** and **Docker**.  
+✅ Configured VESC controller, odometry, and PID tuning  
+✅ Implemented **SLAM Toolbox** for LiDAR-based localization  
+✅ Developed **trajectory planner** and **follower** in Python  
+
+---
+
 ### 🔹 [ABS Controller – Software-in-the-Loop](https://github.com/deva-praseeth/ABS-SIL-Controller.git)
 Model-Based Design in **MATLAB/Simulink** + **Stateflow**, ISO 26262 compliant.  
 ✅ Generated ANSI-C code using Embedded Coder  
 ✅ Real-time interaction via TCP/IP  
 ✅ Git version-controlled  
 
-### 🔹 Gyroscopic Hybrid Bicycle  
-Self-stabilizing hybrid bicycle using Reaction Wheel System for gyroscopic stability.
+---
 
-### 🔹 Automotive Error Detection – Schanzer Racing Electric e.V.  
-Implemented **automatic error detection** in MicroAutobox, integrated CAN messages, validated with CANoe.
+### 🔹 Automatic Error Detection – Schanzer Racing Electric e.V.  
+Implemented **automatic error detection** in MicroAutobox, integrated CAN messages, and validated using **CANoe** and **dSPACE** RTI blocks.
 
 ---
 
@@ -54,7 +66,7 @@ Implemented **automatic error detection** in MicroAutobox, integrated CAN messag
 ---
 
 ## 📚 Education
-🎓 **M.Eng. International Automotive Engineering** – THI, Ingolstadt  
+🎓 **M.Eng. International Automotive Engineering** – Technische Hochschule Ingolstadt (THI)  
 🎓 **B.Eng. Mechatronics Engineering** – Anna University, Chennai  
 
 ---
