@@ -36,7 +36,7 @@ I thrive at the intersection of **mechanics, electronics, and code** — buildin
 
 ## 🏆 Featured Projects
 
-### 🔹 Autoware Integration – F1TENTH Platform  
+### 🔹 <a href="https://github.com/THIMCAutonomousDriving/autoware_universe.git">Autoware Integration – F1TENTH Platform</a>  
 Deployment of **Autoware Autonomous Driving Stack** on **NVIDIA Jetson** using **ROS2** and **Docker**.  
 ✅ Configured VESC controller, odometry, and PID tuning  
 ✅ Implemented **SLAM Toolbox** for LiDAR-based localization  
@@ -54,14 +54,6 @@ Model-Based Design in **MATLAB/Simulink** + **Stateflow**, ISO 26262 compliant.
 
 ### 🔹 Automatic Error Detection – Schanzer Racing Electric e.V.  
 Implemented **automatic error detection** in MicroAutobox, integrated CAN messages, and validated using **CANoe** and **dSPACE** RTI blocks.
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deva-praseeth&show_icons=true&theme=vision-friendly-dark" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deva-praseeth&layout=compact&theme=vision-friendly-dark" alt="Top Languages" height="150"/>
-</p>
 
 ---
 
