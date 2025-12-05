@@ -11,7 +11,6 @@ I’m a **Master’s student in International Automotive Engineering** at THI, b
 I thrive at the intersection of **mechanics, electronics, and code** — building solutions that move the world forward.
 
 - 🎓 Master’s in **International Automotive Engineering** – THI, Ingolstadt  
-- 🔧 3+ years in **O&M project planning** for global clients  
 - 💻 1+ year in **automotive software development & model-based design**  
 - 🌍 Experience in **Germany, Saudi Arabia, and India**  
 
